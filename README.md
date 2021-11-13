@@ -14,7 +14,7 @@ ISEKAI recommendation [/isekai](https://manhwas.herokuapp.com/isekai)
 
 ROMANCE recommendation [/romance](https://manhwas.herokuapp.com/romance)
 
-FANTASY recommendation [/isekai](https://manhwas.herokuapp.com/fantasy)
+FANTASY recommendation [/fantasy](https://manhwas.herokuapp.com/fantasy)
 
 RANDOM recommendation [/random-manhwa](https://manhwas.herokuapp.com/random-manhwa)
 
