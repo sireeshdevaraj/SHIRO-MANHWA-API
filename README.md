@@ -11,6 +11,8 @@ Here's the [version 1.1](https://manhwas.herokuapp.com) main page
 
 ## API END POINTS
 ISEKAI recommendation [/isekai](https://manhwas.herokuapp.com/isekai)
+ROMANCE recommendation [/romance](https://manhwas.herokuapp.com/romance)
+FANTASY recommendation [/isekai](https://manhwas.herokuapp.com/fantasy)
 
 RANDOM recommendation [/random-manhwa](https://manhwas.herokuapp.com/random-manhwa)
 
