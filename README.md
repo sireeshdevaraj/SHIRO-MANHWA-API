@@ -18,7 +18,7 @@ FANTASY recommendation [/fantasy](https://manhwas.herokuapp.com/fantasy)
 
 RANDOM recommendation [/random-manhwa](https://manhwas.herokuapp.com/random-manhwa)
 
-There are Only2 End Points for Now , However I am yet to Add the other categories like slice of life/rom-com/fantasy,action
+There are Only 4 End Points for Now , However I am yet to Add the other categories like slice of life,action and other
 
 Usage inside the Discord Bot
 ## USAGE
