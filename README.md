@@ -14,7 +14,9 @@ ISEKAI recommendation [/isekai](https://manhwas.herokuapp.com/isekai)
 
 ROMANCE recommendation [/romance](https://manhwas.herokuapp.com/romance)
 
-FANTASY recommendation [/fantasy](https://manhwas.herokuapp.com/fantasy)
+ACTION & FANTASY recommendation [/fantasy](https://manhwas.herokuapp.com/action)
+
+Fan of OVER-POWERED Main character? No problem.OP-recommendation [/op](https://manhwas.herokuapp.com/op)
 
 RANDOM recommendation [/random-manhwa](https://manhwas.herokuapp.com/random-manhwa)
 
