@@ -1,10 +1,13 @@
 # SHIRO-MANHWA API
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/sireeshdevaraj/SHIRO-MANHWA-API.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/)
+[![GitHub release](https://img.shields.io/github/release/sireeshdevaraj/SHIRO-MANHWA-API.svg)](https://GitHub.com/sireeshdevaraj/SHIRO-MANHWA-API/releases/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/sireeshdevaraj/SHIRO-MANHWA-API/graphs/commit-activity)
 
-Fan of Manhwas and Manhuas? , Want a Category suggestions too?.Get fetch requests from API and use it in your web/android/Discord Bot.
+Fan of Mangas,Manhwas and Manhuas? , Want a Category suggestions too?.Fetch requests from API and use it in your web/android/Discord Bot.
 
 ## LATEST VERSION
 
-Here's the [version 1.1](https://manhwas.herokuapp.com) main page 
+Here's the [![Latest release](https://badgen.net/github/release/sireeshdevaraj/SHIRO-MANHWA-API)](https://manhwas.herokuapp.com)
 
 
 
@@ -20,9 +23,13 @@ Fan of OVER-POWERED Main character? No problem.OP-recommendation [/op](https://m
 
 RANDOM recommendation [/random-manhwa](https://manhwas.herokuapp.com/random-manhwa)
 
-There are Only 4 End Points for Now , However I am yet to Add the other categories like slice of life,action and other
+##Want a Discord Bot that can do all these? with moderation and anime info bot?,no worries,Shiro is here.
+First ever Verified Manhwa Bot on Discord Invite?:[SHIRO](https://top.gg/bot/909026192785551371)
+
+![image](https://user-images.githubusercontent.com/65805722/146648535-e1011b6c-8573-4675-a823-a80ea46cfec4.png)
 
 Usage inside the Discord Bot
+
 ## USAGE
 ![Usage](https://i.imgur.com/bXWY0Jp.gif)
 ```python
