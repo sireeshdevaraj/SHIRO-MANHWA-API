@@ -23,7 +23,7 @@ Fan of OVER-POWERED Main character? No problem.OP-recommendation [/op](https://m
 
 RANDOM recommendation [/random-manhwa](https://manhwas.herokuapp.com/random-manhwa)
 
-## Want a Discord Bot that can do all these? with moderation and anime info bot?,no worries,Shiro is here.
+## Want a Discord Bot that can do all these? with moderation and anime info?,no worries,Shiro is here.
 First ever Verified Manhwa Bot on Discord Invite?:[SHIRO](https://top.gg/bot/909026192785551371)
 
 ![image](https://user-images.githubusercontent.com/65805722/146648535-e1011b6c-8573-4675-a823-a80ea46cfec4.png)
