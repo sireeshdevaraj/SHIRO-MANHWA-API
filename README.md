@@ -51,6 +51,6 @@ If you have any issues on using the API, feel free to create a new issue and I'l
 
 
 #To-Do List
--[] Slice of Life Category
--[] Demon Lord Category
--[] Comedy End Point
+- [ ] Slice of Life Category
+- [ ] Demon Lord Category
+- [ ] Comedy End Point
