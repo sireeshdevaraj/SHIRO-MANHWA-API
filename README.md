@@ -25,7 +25,8 @@ RANDOM recommendation [/random-manhwa](https://manhwas.herokuapp.com/random-manh
 
 ## Want a Discord Bot that can do all these? with moderation and anime info?,no worries,Shiro is here.
 First ever Verified Manhwa Bot on Discord Invite?:[SHIRO](https://top.gg/bot/909026192785551371)
-
+[Shiro Dashboard](https://shiromanhwa.me/)
+[Make Embeds with Shiro](https://shiromanhwa.me/embed)
 ![image](https://user-images.githubusercontent.com/65805722/146648535-e1011b6c-8573-4675-a823-a80ea46cfec4.png)
 
 Usage inside the Discord Bot
@@ -54,3 +55,4 @@ If you have any issues on using the API, feel free to create a new issue and I'l
 - [ ] Slice of Life Category
 - [ ] Demon Lord Category
 - [ ] Comedy End Point
+- [ ] A Simple Dashboard for API
