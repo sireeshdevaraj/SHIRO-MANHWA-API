@@ -48,3 +48,9 @@ I'm Not a Fan of rate limits ,there are no restrictions, you can pull  as many r
 ## PROBLEM ACCESSING?
 
 If you have any issues on using the API, feel free to create a new issue and I'll try to solve it as soon as possible!
+
+
+#To-Do List
+- [] Slice of Life Category
+- [] Demon Lord Category
+- [] Comedy End Point
