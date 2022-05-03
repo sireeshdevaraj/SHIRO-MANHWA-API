@@ -46,7 +46,18 @@ response = requests.get('https://manhwas.herokuapp.com/isekai')
 print(response)
 ```
 
-Reference on How to Use API's  with [JAVA script](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/)
+## JAVASCRIPT
+```js
+var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
+var request = new XMLHttpRequest()
+
+// Open a new connection, using the GET request on the URL endpoint
+request.open('GET', 'https://manhwas.herokuapp.com/isekai', true)
+request.send();
+request.onload = ()=> {
+  console.log(request.responseText);
+};
+```
 
 
 ## RATE LIMITS
