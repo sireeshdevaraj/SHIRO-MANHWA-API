@@ -29,10 +29,9 @@ RANDOM recommendation [/random-manhwa](https://manhwachan.vercel.app/random-manh
 
 First ever Verified Manhwa Bot on Discord!
 [Invite Shiro](https://top.gg/bot/909026192785551371)
-
+[Make Embeds with Shiro](https://shiromanhwa.me/embed)
 [Shiro Dashboard](https://shiromanhwa.me/)
 
-[Make Embeds with Shiro](https://shiromanhwa.me/embed)
 ![](https://user-images.githubusercontent.com/65805722/146648535-e1011b6c-8573-4675-a823-a80ea46cfec4.png)
 
 Usage inside the Discord Bot
