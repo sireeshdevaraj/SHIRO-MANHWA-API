@@ -47,9 +47,10 @@ print(response.json())
 
 ## JAVASCRIPT
 ```js
-fetch("https://manhwachan.vercel.app/action", {
+fetch("https://manhwachan.vercel.app/fantasy", {
   "method": "GET",
-  "mode": "cors"}).then(data=>data.json()).then(data=>console.log(data);)
+  "mode": "cors"
+}).then(d=>d.json()).then(d=>console.log(d))
 ```
 
 
