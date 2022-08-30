@@ -7,21 +7,21 @@ Fan of Mangas,Manhwas and Manhuas? , Want a Category suggestions too?.Fetch requ
 
 ## LATEST VERSION
 
-Here's the [![Latest release](https://badgen.net/github/release/sireeshdevaraj/SHIRO-MANHWA-API)](https://manhwas.herokuapp.com)
+Here's the [![Latest release](https://badgen.net/github/release/sireeshdevaraj/SHIRO-MANHWA-API)](https://manhwachan.vercel.app/)
 
 
 
 
 ## API END POINTS
-ISEKAI recommendation [/isekai](https://manhwas.herokuapp.com/isekai)
+ISEKAI recommendation [/isekai](https://manhwachan.vercel.app/isekai)
 
-ROMANCE recommendation [/romance](https://manhwas.herokuapp.com/romance)
+ROMANCE recommendation [/romance](https://manhwachan.vercel.app/romance)
 
-ACTION & FANTASY recommendation [/action](https://manhwas.herokuapp.com/action)
+ACTION & FANTASY recommendation [/action](https://manhwachan.vercel.app/action)
 
-Fan of OVER-POWERED Main character? No problem.OP-recommendation [/op](https://manhwas.herokuapp.com/op)
+Fan of OVER-POWERED Main character? No problem.OP-recommendation [/op](https://manhwachan.vercel.app/op)
 
-RANDOM recommendation [/random-manhwa](https://manhwas.herokuapp.com/random-manhwa)
+RANDOM recommendation [/random-manhwa](https://manhwachan.vercel.app/random-manhwa)
 
 ## Want a Discord Bot that can do all these? with moderation and anime info?,no worries,Shiro is here.
 ![Discord Bots](https://top.gg/api/widget/909026192785551371.svg)
@@ -42,21 +42,14 @@ Usage inside the Discord Bot
 ```python
 import requests
 response = requests.get('https://manhwas.herokuapp.com/isekai')
-#check the status of the resposne-200
-print(response)
+print(response.json())
 ```
 
 ## JAVASCRIPT
 ```js
-var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
-var request = new XMLHttpRequest()
-
-// Open a new connection, using the GET request on the URL endpoint
-request.open('GET', 'https://manhwas.herokuapp.com/isekai', true)
-request.send();
-request.onload = ()=> {
-  console.log(request.responseText);
-};
+fetch("https://manhwachan.vercel.app/action", {
+  "method": "GET",
+  "mode": "cors"}).then(data=>data.json()).then(data=>console.log(data);)
 ```
 
 
