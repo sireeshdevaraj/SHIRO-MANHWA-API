@@ -33,7 +33,7 @@ First ever Verified Manhwa Bot on Discord!
 [Shiro Dashboard](https://shiromanhwa.me/)
 
 [Make Embeds with Shiro](https://shiromanhwa.me/embed)
-![image](https://user-images.githubusercontent.com/65805722/146648535-e1011b6c-8573-4675-a823-a80ea46cfec4.png)
+![](https://user-images.githubusercontent.com/65805722/146648535-e1011b6c-8573-4675-a823-a80ea46cfec4.png)
 
 Usage inside the Discord Bot
 
@@ -55,7 +55,7 @@ fetch("https://manhwachan.vercel.app/fantasy", {
 
 
 ## RATE LIMITS
-I'm Not a Fan of rate limits ,there are no restrictions, you can pull  as many requests as you can!!
+I'm Not a Fan of rate limits ,there are no restrictions, you can pull  as many requests as you can!! **FOR NOW**
 
 ## PROBLEM ACCESSING?
 
