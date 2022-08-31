@@ -66,3 +66,5 @@ If you have any issues on using the API, feel free to create a new issue and I'l
 - [ ] Demon Lord Category
 - [ ] Comedy End Point
 - [ ] A Simple Dashboard for API
+- [ ] Rate Limits
+- [ ] API Private Keys
