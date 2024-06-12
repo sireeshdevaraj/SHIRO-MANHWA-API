@@ -7,21 +7,24 @@ Fan of Mangas,Manhwas and Manhuas? , Want a Category suggestions too?.Fetch requ
 
 ## LATEST VERSION
 
-Here's the [![Latest release](https://badgen.net/github/release/sireeshdevaraj/SHIRO-MANHWA-API)](https://manhwachan.vercel.app/)
+Here's the [![Latest release](https://badgen.net/github/release/sireeshdevaraj/SHIRO-MANHWA-API)](https://shiro.kuuhaku.space/)
 
+## API END POINTS- Get a random manhwa: [/manhwas](https://shiro.kuuhaku.space/manhwas)
+- Get manhwas with category:
+  - ROMANCE recommendation: [/manhwas?category=romance](https://shiro.kuuhaku.space/manhwas?category=romance)
+  - ACTION recommendation: [/manhwas?category=action](https://shiro.kuuhaku.space/manhwas?category=action)
+  - FANTASY recommendation: [/manhwas?category=fantasy](https://shiro.kuuhaku.space/manhwas?category=fantasy)
+- Fan of OVER-POWERED Main character? No problem:
+  - OP recommendation: [/op](https://shiro.kuuhaku.space/manhwas?category=over-powered)
 
-
-
-## API END POINTS
-ISEKAI recommendation [/isekai](https://manhwachan.vercel.app/isekai)
-
-ROMANCE recommendation [/romance](https://manhwachan.vercel.app/romance)
-
-ACTION & FANTASY recommendation [/action](https://manhwachan.vercel.app/action)
-
-Fan of OVER-POWERED Main character? No problem.OP-recommendation [/op](https://manhwachan.vercel.app/op)
-
-RANDOM recommendation [/random-manhwa](https://manhwachan.vercel.app/random-manhwa)
+## List of Categories
++ action
++ fantasy
++ comedy
++ over-powered
++ not-assigned
++ isekai
++ romance
 
 ## Want a Discord Bot that can do all these? with moderation and anime info?,no worries,Shiro is here.
 ![Discord Bots](https://top.gg/api/widget/909026192785551371.svg)
@@ -40,18 +43,17 @@ Usage inside the Discord Bot
 ![Usage](https://i.imgur.com/bXWY0Jp.gif)
 ```python
 import requests
-response = requests.get('https://manhwas.herokuapp.com/isekai')
+response = requests.get('https://shiro.kuuhaku.space/manhwas')
 print(response.json())
 ```
 
 ## JAVASCRIPT
 ```js
-fetch("https://manhwachan.vercel.app/fantasy", {
+fetch("https://shiro.kuuhaku.space/manhwas?category=fantasy", {
   "method": "GET",
   "mode": "cors"
 }).then(d=>d.json()).then(d=>console.log(d))
 ```
-
 
 ## RATE LIMITS
 I'm Not a Fan of rate limits ,there are no restrictions, you can pull  as many requests as you can!! **FOR NOW**
@@ -60,7 +62,6 @@ I'm Not a Fan of rate limits ,there are no restrictions, you can pull  as many r
 
 If you have any issues on using the API, feel free to create a new issue and I'll try to solve it as soon as possible!
 
-
 ## To-Do List
 - [ ] Slice of Life Category
 - [ ] Demon Lord Category
@@ -68,3 +69,4 @@ If you have any issues on using the API, feel free to create a new issue and I'l
 - [ ] A Simple Dashboard for API
 - [ ] Rate Limits
 - [ ] API Private Keys
+- [ ] Integrating AI
