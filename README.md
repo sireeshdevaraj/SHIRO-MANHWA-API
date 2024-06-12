@@ -9,7 +9,8 @@ Fan of Mangas,Manhwas and Manhuas? , Want a Category suggestions too?.Fetch requ
 
 Here's the [![Latest release](https://badgen.net/github/release/sireeshdevaraj/SHIRO-MANHWA-API)](https://shiro.kuuhaku.space/)
 
-## API END POINTS- Get a random manhwa: [/manhwas](https://shiro.kuuhaku.space/manhwas)
+## API END POINTS
+- Get a random manhwa: [/manhwas](https://shiro.kuuhaku.space/manhwas)
 - Get manhwas with category:
   - ROMANCE recommendation: [/manhwas?category=romance](https://shiro.kuuhaku.space/manhwas?category=romance)
   - ACTION recommendation: [/manhwas?category=action](https://shiro.kuuhaku.space/manhwas?category=action)
