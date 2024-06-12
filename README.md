@@ -16,7 +16,7 @@ Here's the [![Latest release](https://badgen.net/github/release/sireeshdevaraj/S
   - ACTION recommendation: [/manhwas?category=action](https://shiro.kuuhaku.space/manhwas?category=action)
   - FANTASY recommendation: [/manhwas?category=fantasy](https://shiro.kuuhaku.space/manhwas?category=fantasy)
 - Fan of OVER-POWERED Main character? No problem:
-  - OP recommendation: [/op](https://shiro.kuuhaku.space/manhwas?category=over-powered)
+  - OP recommendation: [/manhwas?category=over-powered](https://shiro.kuuhaku.space/manhwas?category=over-powered)
 
 ## List of Categories
 + action
